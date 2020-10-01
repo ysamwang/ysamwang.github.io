@@ -1,0 +1,11 @@
+---
+title: "A variational EM method for mixed membership models with multivariate rank data: An analysis of public policy preferences"
+date: 2017
+venue: 'Annals of Applied Statistics'
+paperurl: 'https://arxiv.org/abs/1512.08731'
+---
+We develop a variational EM method for estimating mixed membership models with multivariate rank data. This procedure has many compuational advantages to the previously proposed MCMC procedures. We apply the procedure to Eurobarometer data and find interpertable sub-groups which may be defined by public policy preferences
+
+[arXiv version](https://arxiv.org/abs/1512.08731)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
