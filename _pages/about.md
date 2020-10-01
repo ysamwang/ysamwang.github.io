@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Y. Samuel Wang"
+title: "About me"
 excerpt: "Personal website"
 author_profile: true
 redirect_from: 
