@@ -139,7 +139,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
- preprints:
+  preprints:
     output: true
     permalink: /:collection/:path/
 
