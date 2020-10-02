@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-![](https://github.com/ysamwang/ysamwang.github.io/blob/master/images/gradAscent.jpg =200x)
+![](https://ysamwang.github.io/images/gradAscent.jpg =200x)
 *Gradient ascent in the wild*
 
 A detailed list of my work is listed below. My [google scholar page](https://scholar.google.com/citations?user=ih_LeQYAAAAJ&hl=en) also has a more compact list. 
