@@ -9,17 +9,17 @@ A detailed list of my work is listed below. My [google scholar page](https://sch
   
 {% include base_path %}
 
-Recent pre-prints
-=====
+### Recent pre-prints
+
 {% for post in site.preprints reversed %} {% include archive-single.html %} {% endfor %}
 
 
 
-Peer reviewed statistics publications
-=====
+### Peer reviewed statistics publications
+
 {% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
 
 
-Other works
-=====
+### Other works
+
 {% for post in site.other reversed %} {% include archive-single.html %} {% endfor %}
