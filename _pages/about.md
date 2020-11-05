@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-![](prof.jpg)
-
 
 I am currently a principal researcher (post-doc) at the University of Chicago's Booth School of Business working with [Mladen Kolar](https://mkolar.coffeejunkies.org/). I completed my PhD in Statistics at the University of Washington under the supervision of [Mathias Drton](https://www.professoren.tum.de/en/drton-mathias). 
 
