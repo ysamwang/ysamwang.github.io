@@ -12,4 +12,4 @@ An informal seminar for first year grad students in the Cornell Statistics and D
 Lecture Notes
 ======
 + [Lecture 1: Intro](https://ysamwang.github.io/files/courses/intro_grad/session1.pdf)
-+ [Lecture 2: LaTeX](https://ysamwang.github.io/files/courses/intro_grad/lectures/session2.pdf)
++ [Lecture 2: LaTeX](https://ysamwang.github.io/files/courses/intro_grad/session2.pdf)
