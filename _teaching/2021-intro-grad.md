@@ -1,5 +1,5 @@
 ---
-title: "Grad School 201"
+title: "Grad School 101"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/intro_grad_school
