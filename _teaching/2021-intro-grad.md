@@ -1,7 +1,7 @@
 ---
 title: "Grad School 101"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate level"
 permalink: /teaching/intro_grad_school
 venue: "Cornell"
 date: 2021-09-01
