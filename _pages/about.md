@@ -13,7 +13,6 @@ He received his PhD in Statistics from the University of Washington and an under
 He also worked as a management consultant for a few years before embarking on his PhD. 
 
 He enjoys thinking about problems where the goal is to discover interpretable structure which underlies the data generating process; 
-this includes problems in the areas of causal discovery and graphical models. 
-His work has been published in venues such as the Annals of Statistics, Journal of the American Statistical Association, Biometrika,
-Journal of Machine Learning Research, NeurIPS, ICML, and UAI. He has received an NSF CAREER Award and the Tom Ten Have Award.
+this includes problems in the areas of causal discovery and graphical models. He has received an NSF CAREER Award and the Tom Ten Have Award.
 
+[CV](http://ysamwang.github.io/files/strg/ysamuelwang_cv.pdf)
